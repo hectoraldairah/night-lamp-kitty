@@ -1,6 +1,6 @@
-# night-lamp-kitty
+# Night Lamp Kitty
 
-An elegant, cozzy theme made for kitty theme plugin.
+An elegant, cozzy theme made for kitty theme plugin. Enjoy your coding nights.
 
 ![](screenshot.png)
 
