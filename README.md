@@ -2,7 +2,7 @@
 
 An elegant, cozzy theme made for kitty theme plugin. Enjoy your coding nights.
 
-![](screenshot.png)
+![](screenshot.gif)
 
 ## Install
 
